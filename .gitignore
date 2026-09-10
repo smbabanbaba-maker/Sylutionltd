@@ -1,0 +1,6 @@
+node_modules/
+dist/
+*.log
+hero-core.jpg
+robotics-lab.jpg
+agritech.jpg
